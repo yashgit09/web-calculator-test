@@ -1,0 +1,24 @@
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master\Calculator.Logic\bin\Debug\net5.0\Calculator.Logic.deps.json
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master\Calculator.Logic\bin\Debug\net5.0\Calculator.Logic.dll
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master\Calculator.Logic\bin\Debug\net5.0\Calculator.Logic.pdb
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master\Calculator.Logic\obj\Debug\net5.0\Calculator.Logic.csproj.AssemblyReference.cache
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master\Calculator.Logic\obj\Debug\net5.0\Calculator.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master\Calculator.Logic\obj\Debug\net5.0\Calculator.Logic.AssemblyInfoInputs.cache
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master\Calculator.Logic\obj\Debug\net5.0\Calculator.Logic.AssemblyInfo.cs
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master\Calculator.Logic\obj\Debug\net5.0\Calculator.Logic.csproj.CoreCompileInputs.cache
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master\Calculator.Logic\obj\Debug\net5.0\Calculator.Logic.dll
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master\Calculator.Logic\obj\Debug\net5.0\refint\Calculator.Logic.dll
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master\Calculator.Logic\obj\Debug\net5.0\Calculator.Logic.pdb
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master\Calculator.Logic\obj\Debug\net5.0\ref\Calculator.Logic.dll
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master - Copy\Calculator.Logic\bin\Debug\net5.0\Calculator.Logic.deps.json
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master - Copy\Calculator.Logic\bin\Debug\net5.0\Calculator.Logic.dll
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master - Copy\Calculator.Logic\bin\Debug\net5.0\Calculator.Logic.pdb
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master - Copy\Calculator.Logic\obj\Debug\net5.0\Calculator.Logic.csproj.AssemblyReference.cache
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master - Copy\Calculator.Logic\obj\Debug\net5.0\Calculator.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master - Copy\Calculator.Logic\obj\Debug\net5.0\Calculator.Logic.AssemblyInfoInputs.cache
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master - Copy\Calculator.Logic\obj\Debug\net5.0\Calculator.Logic.AssemblyInfo.cs
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master - Copy\Calculator.Logic\obj\Debug\net5.0\Calculator.Logic.csproj.CoreCompileInputs.cache
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master - Copy\Calculator.Logic\obj\Debug\net5.0\Calculator.Logic.dll
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master - Copy\Calculator.Logic\obj\Debug\net5.0\refint\Calculator.Logic.dll
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master - Copy\Calculator.Logic\obj\Debug\net5.0\Calculator.Logic.pdb
+D:\Masters\WEB DEV\source\repos\CMP-1005-Spring2002-Testing-master - Copy\Calculator.Logic\obj\Debug\net5.0\ref\Calculator.Logic.dll

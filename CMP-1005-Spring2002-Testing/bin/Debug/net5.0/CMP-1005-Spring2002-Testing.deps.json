@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CMP-1005-Spring2002-Testing/1.0.0": {
+        "dependencies": {
+          "Calculator.Logic": "1.0.0"
+        },
+        "runtime": {
+          "CMP-1005-Spring2002-Testing.dll": {}
+        }
+      },
+      "Calculator.Logic/1.0.0": {
+        "runtime": {
+          "Calculator.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CMP-1005-Spring2002-Testing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calculator.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
